@@ -1,0 +1,7 @@
+@font-face {
+  font-family:"ckim jima";
+  src: url(fonts/Old_Standard_TT\ \(1\).zip);
+}
+p{
+  font-family:"ckim jima";
+}
